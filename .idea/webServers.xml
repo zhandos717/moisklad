@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8fd63289-b1cc-4bf0-886d-2ada31590faf" name="beget" url="http://s747191p.beget.tech">
+        <fileTransfer rootFolder="/s747191p.beget.tech/public_html" host="s747191p.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
